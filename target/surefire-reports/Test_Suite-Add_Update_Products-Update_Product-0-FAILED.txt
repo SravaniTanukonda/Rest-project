@@ -1,0 +1,10 @@
+Status: FAILED
+Time Taken: 319
+Size: 0
+Timestamp: Mon Sep 14 20:56:08 IST 2020
+TestStep: Update_Product
+Error:groovy.lang.GroovyRuntimeException: Cannot compare java.util.ArrayList with value '[]' and java.lang.Integer with value '10'
+
+----------------- Messages ------------------------------
+groovy.lang.GroovyRuntimeException: Cannot compare java.util.ArrayList with value '[]' and java.lang.Integer with value '10'
+error at line: 9

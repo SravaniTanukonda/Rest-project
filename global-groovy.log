@@ -1,0 +1,45 @@
+2020-09-14 20:05:47,911 INFO  [log] 2 and 2
+2020-09-14 20:05:48,094 INFO  [log] upskills_admin
+2020-09-14 20:05:48,332 INFO  [log] Talent4$$
+2020-09-14 20:05:50,379 INFO  [log] Status: FINISHED, time taken for TestCase was: 1551 ms
+2020-09-14 20:05:50,443 INFO  [log] Number of test steps which ran: 5
+2020-09-14 20:05:52,115 INFO  [log] upskills_admin
+2020-09-14 20:05:52,119 INFO  [log] Talent4$$
+2020-09-14 20:05:53,779 INFO  [log] Status: FINISHED, time taken for TestCase was: 1556 ms
+2020-09-14 20:05:53,793 INFO  [log] Number of test steps which ran: 5
+2020-09-14 20:05:56,080 INFO  [log]  First Name: []
+2020-09-14 20:05:56,090 INFO  [log] []
+2020-09-14 20:05:56,198 INFO  [log]  First Name: []
+2020-09-14 20:05:56,211 INFO  [log] 2
+2020-09-14 20:05:56,229 INFO  [log] [] size is less than 2 letter:
+2020-09-14 20:05:57,794 INFO  [log] 6 and 2
+2020-09-14 20:05:57,805 INFO  [log] LastName
+2020-09-14 20:05:57,809 INFO  [log] Vijpayee
+2020-09-14 20:05:59,358 INFO  [log] Product Quantity: []
+2020-09-14 20:56:00,979 INFO  [log] 2 and 2
+2020-09-14 20:56:00,993 INFO  [log] upskills_admin
+2020-09-14 20:56:01,004 INFO  [log] Talent4$$
+2020-09-14 20:56:02,457 INFO  [log] Status: FINISHED, time taken for TestCase was: 1267 ms
+2020-09-14 20:56:02,496 INFO  [log] Number of test steps which ran: 5
+2020-09-14 20:56:03,153 INFO  [log] upskills_admin
+2020-09-14 20:56:03,155 INFO  [log] Talent4$$
+2020-09-14 20:56:04,629 INFO  [log] Status: FINISHED, time taken for TestCase was: 1303 ms
+2020-09-14 20:56:04,641 INFO  [log] Number of test steps which ran: 5
+2020-09-14 20:56:06,610 INFO  [log]  First Name: []
+2020-09-14 20:56:06,613 INFO  [log] []
+2020-09-14 20:56:06,689 INFO  [log]  First Name: []
+2020-09-14 20:56:06,691 INFO  [log] 2
+2020-09-14 20:56:06,692 INFO  [log] [] size is less than 2 letter:
+2020-09-14 20:56:07,736 INFO  [log] 6 and 2
+2020-09-14 20:56:07,741 INFO  [log] LastName
+2020-09-14 20:56:07,746 INFO  [log] Vijpayee
+2020-09-14 20:56:08,707 INFO  [log] Product Quantity: []
+2020-09-14 20:58:50,903 INFO  [log] 2 and 2
+2020-09-14 20:58:50,920 INFO  [log] upskills_admin
+2020-09-14 20:58:50,927 INFO  [log] Talent4$$
+2020-09-14 20:58:52,384 INFO  [log] Status: FINISHED, time taken for TestCase was: 1295 ms
+2020-09-14 20:58:52,416 INFO  [log] Number of test steps which ran: 5
+2020-09-14 20:58:53,245 INFO  [log] upskills_admin
+2020-09-14 20:58:53,272 INFO  [log] Talent4$$
+2020-09-14 20:58:54,606 INFO  [log] Status: FINISHED, time taken for TestCase was: 1257 ms
+2020-09-14 20:58:54,607 INFO  [log] Number of test steps which ran: 5

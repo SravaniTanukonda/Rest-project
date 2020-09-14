@@ -1,0 +1,8 @@
+Status: FAILED
+Time Taken: 636
+Size: 0
+Timestamp: Mon Sep 14 20:56:06 IST 2020
+TestStep: GroovyScript_UpdateCustomer
+
+----------------- Messages ------------------------------
+Script-result: com.eviware.soapui.impl.wsdl.teststeps.WsdlTestStepResult@5b6c109c

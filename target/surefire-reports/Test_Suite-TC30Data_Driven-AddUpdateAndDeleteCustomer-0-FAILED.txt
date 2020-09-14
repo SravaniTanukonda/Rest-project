@@ -1,0 +1,10 @@
+Status: FAILED
+Time Taken: 724
+Size: 0
+Timestamp: Mon Sep 14 20:56:07 IST 2020
+TestStep: AddUpdateAndDeleteCustomer
+Error:groovy.lang.MissingPropertyException: No such property: email for class: Script1
+
+----------------- Messages ------------------------------
+groovy.lang.MissingPropertyException: No such property: email for class: Script1
+error at line: 59
